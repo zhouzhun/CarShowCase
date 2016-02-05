@@ -1,0 +1,164 @@
+Initialize engine version: 5.2.0f3 (e7947df39b5c)
+[VRDevice] Successfully created device oculus.
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     4007 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Project\StartUp\Oculus\CarShowCaseVR\CarShowCaseVR_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Project\StartUp\Oculus\CarShowCaseVR\CarShowCaseVR_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Project\StartUp\Oculus\CarShowCaseVR\CarShowCaseVR_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Project\StartUp\Oculus\CarShowCaseVR\CarShowCaseVR_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Project\StartUp\Oculus\CarShowCaseVR\CarShowCaseVR_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Project\StartUp\Oculus\CarShowCaseVR\CarShowCaseVR_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Project\StartUp\Oculus\CarShowCaseVR\CarShowCaseVR_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\Project\StartUp\Oculus\CarShowCaseVR\CarShowCaseVR_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\Project\StartUp\Oculus\CarShowCaseVR\CarShowCaseVR_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Project\StartUp\Oculus\CarShowCaseVR\CarShowCaseVR_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Project\StartUp\Oculus\CarShowCaseVR\CarShowCaseVR_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Project\StartUp\Oculus\CarShowCaseVR\CarShowCaseVR_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Project\StartUp\Oculus\CarShowCaseVR\CarShowCaseVR_Data\Managed\DialogueSystem.dll (this message is harmless)
+Loading D:\Project\StartUp\Oculus\CarShowCaseVR\CarShowCaseVR_Data\Managed\DialogueSystem.dll into Unity Child Domain
+Platform assembly: D:\Project\StartUp\Oculus\CarShowCaseVR\CarShowCaseVR_Data\Managed\LuaInterpreter.dll (this message is harmless)
+Loading D:\Project\StartUp\Oculus\CarShowCaseVR\CarShowCaseVR_Data\Managed\LuaInterpreter.dll into Unity Child Domain
+Platform assembly: D:\Project\StartUp\Oculus\CarShowCaseVR\CarShowCaseVR_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading D:\Project\StartUp\Oculus\CarShowCaseVR\CarShowCaseVR_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+Platform assembly: D:\Project\StartUp\Oculus\CarShowCaseVR\CarShowCaseVR_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.225 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 2560x1440 59Hz; virtual: 2560x1440 at 0,0
+<RI> Initialized touch support.
+Platform assembly: D:\Project\StartUp\Oculus\CarShowCaseVR\CarShowCaseVR_Data\Managed\System.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1649)
+
+[CAPI] LibOVR module is located at C:\WINDOWS\SYSTEM32\LibOVRRT64_0_6.dll
+
+ 
+(Filename:  Line: 46)
+
+[IPC] Call Stats for SetInitialState : x1: C2S=17.0765, S2C=13.3766, Runtime=51.5142 (microseconds) C2Ssize=80, S2Csize=81 (bytes)
+
+ 
+(Filename:  Line: 46)
+
+[IPC] Call Stats for IsLatencyTesterAvailable : x1: C2S=18.7842, S2C=3.69992, Runtime=1.13844 (microseconds) C2Ssize=33, S2Csize=18 (bytes)
+
+ 
+(Filename:  Line: 46)
+
+[IPC] Call Stats for Hmd_Create : x1: C2S=5.12296, S2C=13.6612, Runtime=492.089 (microseconds) C2Ssize=19, S2Csize=171 (bytes)
+
+ 
+(Filename:  Line: 46)
+
+[IPC] Call Stats for Hmd_GetHmdInfo : x1: C2S=4.83835, S2C=15.3689, Runtime=233.379 (microseconds) C2Ssize=23, S2Csize=699 (bytes)
+
+ 
+(Filename:  Line: 46)
+
+[IPC] Call Stats for SetNumberValue : x1: C2S=243.056, S2C=13.3766, Runtime=5.12296 (microseconds) C2Ssize=55, S2Csize=25 (bytes)
+
+ 
+(Filename:  Line: 46)
+
+[IPC] Call Stats for SetNumberValues : x1: C2S=4.55375, S2C=7.39984, Runtime=3.1307 (microseconds) C2Ssize=81, S2Csize=25 (bytes)
+
+ 
+(Filename:  Line: 46)
+
+[IPC] Call Stats for Hmd_SetEnabledCaps : x1: C2S=4.83835, S2C=3.41531, Runtime=23.3379 (microseconds) C2Ssize=35, S2Csize=33 (bytes)
+
+ 
+(Filename:  Line: 46)
+
+[IPC] Call Stats for Hmd_ConfigureTracking : x1: C2S=5.12296, S2C=3.98453, Runtime=9.96132 (microseconds) C2Ssize=46, S2Csize=25 (bytes)
+
+ 
+(Filename:  Line: 46)
+
+[IPC] Call Stats for SetIntValue : x1: C2S=6.2614, S2C=4.26914, Runtime=1.42305 (microseconds) C2Ssize=47, S2Csize=25 (bytes)
+
+ 
+(Filename:  Line: 46)
+
+[IPC] Call Stats for Compositor_Create : x1: C2S=12.5228, S2C=19.0688, Runtime=171714 (microseconds) C2Ssize=100, S2Csize=52 (bytes)
+
+ 
+(Filename:  Line: 46)
+
+[IPC] Call Stats for Compositor_TextureSet_Create : x1: C2S=13.9458, S2C=19.0688, Runtime=605.079 (microseconds) C2Ssize=69, S2Csize=33 (bytes)
+
+ 
+(Filename:  Line: 46)
+
+Unity v5.2.0f3, Oculus Utilities v0.1.0, OVRPlugin v0.1.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Creating volume controller...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+[IPC] Call Stats for GetNumberValues : x1: C2S=16.5073, S2C=8.53827, Runtime=5.97679 (microseconds) C2Ssize=49, S2Csize=57 (bytes)
+
+ 
+(Filename:  Line: 46)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Cannot use LeapImageRetriever if there is no HandController!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Cannot use LeapImageRetriever if there is no HandController!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 3ccc -> priority: 1 
+  Thread -> id: 431c -> priority: 1 
+  Thread -> id: 473c -> priority: 1 
+  Thread -> id: 3ff8 -> priority: 1 
+[IPC] Call Stats for Compositor_EndFrame : x1: C2S=42.976, S2C=15.9381, Runtime=33078.7 (microseconds) C2Ssize=995, S2Csize=89 (bytes)
+
+ 
+(Filename:  Line: 46)
+
+[IPC] Call Stats for Compositor_DestroyMirror : x1: C2S=8.53827, S2C=2.84609, Runtime=4.26914 (microseconds) C2Ssize=33, S2Csize=25 (bytes)
+
+ 
+(Filename:  Line: 46)
+
+[IPC] Call Stats for Compositor_Destroy : x1: C2S=4.83835, S2C=3.41531, Runtime=2452.48 (microseconds) C2Ssize=27, S2Csize=25 (bytes)
+
+ 
+(Filename:  Line: 46)
+
+[IPC] Call Stats for Hmd_Release : x1: C2S=5.69218, S2C=8.25366, Runtime=171250 (microseconds) C2Ssize=20, S2Csize=25 (bytes)
+
+ 
+(Filename:  Line: 46)
+
